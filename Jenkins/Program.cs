@@ -10,7 +10,7 @@ namespace Jenkins
     {
        public static void Main()
         {
-            Console.WriteLine("Hello Jenkins");
+            Console.WriteLine("Hello Jenkins: Die Änderugen müssen hoch");
         }
     }
 }
